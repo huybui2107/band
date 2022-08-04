@@ -152,7 +152,7 @@ font-size: 20px;
 min-height: 500px;
 padding-top: 50%;
 /* 50% chui ngang cua trinh duyet */
-background: url('./assets/img/sld1.jpg')
+background: url('../img/sld1.jpg')
  top center / cover no-repeat;
  object-fit: cover;
 }
